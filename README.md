@@ -1,6 +1,10 @@
 # Java-LightWeight-IDE
  I wrote this program in Notepad and using CMD to compile java files.
  I'm currently using test.class as the main class <br>
+
+ Reference-style: 
+![Demo][demo.png]
+
  # Installation <br>
  &emsp; Move `SnightCoder_Data` folder to `%UserProfile%`
     <br>

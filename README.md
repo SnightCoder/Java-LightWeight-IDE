@@ -2,7 +2,7 @@
  I wrote this program in Notepad and using CMD to compile java files.
  I'm currently using test.class as the main class <br>
  
-![Demo][demo.png]
+![Demo][https://github.com/SnightCoder/Java-LightWeight-IDE/blob/master/demo.png]
 
  # Installation <br>
  &emsp; Move `SnightCoder_Data` folder to `%UserProfile%`
